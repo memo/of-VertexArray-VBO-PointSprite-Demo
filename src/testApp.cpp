@@ -3,6 +3,8 @@
  Demo's the usage of VertexArrays, VBOs, and PointSprites in OpenGL
  using openFrameworks 006+
  
+ Mac xcode project provided, but should also work on win, linux, ios (if immediate mode code is removed)
+ 
  ref:
  http://www.songho.ca/opengl/gl_vertexarray.html
  http://www.songho.ca/opengl/gl_vbo.html

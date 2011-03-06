@@ -325,12 +325,12 @@
 										<key>_historyCapacity</key>
 										<integer>40</integer>
 										<key>bookmark</key>
-										<string>BB9FBFBE1323E589007BC1A4</string>
+										<string>BB9FBFC91323E630007BC1A4</string>
 										<key>history</key>
 										<array>
 											<string>BB9FBFAF1323E4B1007BC1A4</string>
 											<string>BB9FBFB01323E4B1007BC1A4</string>
-											<string>BB9FBFB11323E4B1007BC1A4</string>
+											<string>BB9FBFBE1323E589007BC1A4</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -388,9 +388,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>BB9FBF7B1323E1BF007BC1A4</string>
+				<string>BB9FBFCA1323E630007BC1A4</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>BB9FBF7C1323E1BF007BC1A4</string>
+				<string>BB9FBFCB1323E630007BC1A4</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -528,10 +528,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>BB9FBF8B1323E218007BC1A4</string>
-		<string>BB9FBF8C1323E218007BC1A4</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>BB604D1212E2ADD800BD9826</string>
 		<string>/Users/Memo/___LAB___/openFrameworks/git new (ofdevconf2011)/apps/memo/VertexArray VBO PointSprite Demo/VertexArray VBO PointSprite Demo.xcodeproj</string>
 	</array>
@@ -613,7 +609,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>BB604D1212E2ADD800BD9826</string>
-				<string>BB9FBF7D1323E1BF007BC1A4</string>
+				<string>BB9FBFCC1323E630007BC1A4</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
